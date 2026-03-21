@@ -1,0 +1,5 @@
+{
+  "name": "Cookify",
+  "description": "A smart recipe suggestion platform that helps you find recipes based on the ingredients you have.",
+  "requestFramePermissions": []
+}
